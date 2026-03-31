@@ -1,6 +1,6 @@
 # Joshua Yoon 👋
  
-> Hi! I'm Joshua, a software developer and game developer passionate about growing and building. I've shipped multiple personal projects, and shipped one professional mobile title with Kong Studios, [Guardian Tales](https://guardiantales.com/).
+Hi! I'm Joshua, a software developer and game developer passionate about growing and building. I've shipped multiple personal projects, and shipped one professional mobile title with Kong Studios, [Guardian Tales](https://guardiantales.com/).
 
 ---
  
@@ -39,15 +39,15 @@
 ## 🚀 Featured Projects
  
 ### [The Maestro](https://github.com/joshua-yoon1030/Maestro)
-> A character mod made using BaseLib for the hit game, "Slay the Spire 2"
+A character mod made using BaseLib for the hit game, "Slay the Spire 2"
 `C#`
  
 ### [6668](https://github.com/joshua-yoon1030/6668)
-> A short platforming game, with all the art design and coding completed by me
+A short platforming game, with all the art design and coding completed by me
 `Godot` `GdScript` `Aseprite`
  
 ### [SlowMo](https://github.com/joshua-yoon1030/slowmo)
-> A tabletop 2 player fighting game with a rock-paper-scissors type format
+A tabletop 2 player fighting game with a rock-paper-scissors type format
 `Godot` `GdScript` `Pivot Animator`
  
 ---
