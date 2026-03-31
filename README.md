@@ -16,6 +16,9 @@ Hi! I'm Joshua, a software developer and game developer passionate about growing
 - 🌱 What I'm currently building: [A new character mod for Slay the Spire 2](https://github.com/joshua-yoon1030/Maestro)
 - 📖 What I'm currently studying: [Introduction to Modern AI, an online course at CMU](https://modernaicourse.org/)
 - 🎊 What I do when I'm not coding: [Teamfight Tactics, peaked Grandmaster](https://lolchess.gg/profile/na/joshisboss-1030/set16), Rock climbing, making Korean food from scratch
+
+  
+### 📧 I love to talk work or about my hobbies! Ask me anything by [mailing me here](mailto:you@email.com).
  
 ---
  
