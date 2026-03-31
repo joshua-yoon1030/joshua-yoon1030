@@ -9,7 +9,7 @@
 - 🏫 I graduated in 2024 from Carnegie Mellon University, with a major in Computer Science and a minor in Music.
 - 🔭 I'm currently working at **Kong Studios** as a gameplay engineer for an upcoming mobile title
 - 💬 What I'm doing at work: lots of coding in C# and development in Unity. Deployment in Jenkins and project management on Gitlab.
-- 🤔 What I look for in a company: I prioritize companies with lots of mentorship, and want to look for somewhere I am surrounded by people who encourage my growth not only as an engineer, but as an effective communicator and team player. 
+- 🤔 What I look for in a company: I prioritize companies with lots of mentorship, and want to look for somewhere I am surrounded by people who encourage my growth not only as an engineer, but also as an effective communicator and team player. 
 - 📫 How to reach me: **joshuayoon2020@gmail.com** or at my [**Linkedin**](https://www.linkedin.com/in/joshua-yoon-78b9271b0/)
 
 ## 🏠: About Me (Personal)
@@ -38,38 +38,19 @@
  
 ## 🚀 Featured Projects
  
-### [Project Name](https://github.com/yourusername/project)
-> Short description — what it does and why it's cool.
-`Tech` `Used` `Here`
+### [The Maestro](https://github.com/joshua-yoon1030/Maestro)
+> A character mod made using BaseLib for the hit game, "Slay the Spire 2"
+`C#`
  
-### [Project Name](https://github.com/yourusername/project)
-> Short description — what it does and why it's cool.
-`Tech` `Used` `Here`
+### [6668](https://github.com/joshua-yoon1030/6668)
+> A short platforming game, with all the art design and coding completed by me
+`Godot` `GdScript` `Aseprite`
  
-### [Project Name](https://github.com/yourusername/project)
-> Short description — what it does and why it's cool.
-`Tech` `Used` `Here`
- 
----
- 
-## 📊 GitHub Stats
- 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
+### [SlowMo](https://github.com/joshua-yoon1030/slowmo)
+> A tabletop 2 player fighting game with a rock-paper-scissors type format
+`Godot` `GdScript` `Pivot Animator`
  
 ---
  
-## 🤝 Connect With Me
- 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Twitter / X](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/YOUR_HANDLE)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5733?style=flat&logo=firefox&logoColor=white)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
- 
----
- 
-<!-- Optional: a closing quote or something personal -->
-*"[An optional quote or personal motto]"*
+*Check out some of my other work below!*
  
